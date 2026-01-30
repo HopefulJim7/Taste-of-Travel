@@ -87,9 +87,8 @@ body {
 ---
 
 ## 🖼️ Screenshot Preview
-Here’s a styled mockup of the **Taste of Travel** recipe page:
 
-`https://copilot.microsoft.com/th/id/BCO.d95d5b11-e5f8-4d89-ab99-965b5cb78953.png`
+![Styled mockup of the Taste of Travel recipe page featuring Tom Yum Goong](image.png)
 
 ---
 
