@@ -1,0 +1,86 @@
+/* Global Styles */
+body {
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  background: #fdfdfd;
+  color: #333;
+  margin: 0;
+  padding: 0;
+  line-height: 1.6;
+}
+
+/* Header */
+h1 {
+  text-align: center;
+  color: skyblue;
+  margin-top: 20px;
+}
+
+h2 {
+  color: #e67e22;
+  margin-bottom: 10px;
+}
+
+h3 {
+  color: #27ae60;
+  margin-top: 20px;
+}
+
+/* Paragraphs & Quotes */
+p {
+  margin: 10px 0;
+}
+
+blockquote {
+  background: #f9f9f9;
+  border-left: 5px solid #e67e22;
+  padding: 10px 20px;
+  font-style: italic;
+  margin: 20px 0;
+}
+
+/* Lists */
+ul, ol {
+  margin: 15px 40px;
+}
+
+li {
+  margin: 5px 0;
+}
+
+/* Table */
+table {
+  width: 80%;
+  margin: 20px auto;
+  border-collapse: collapse;
+  background: #fff;
+  box-shadow: 0 2px 5px rgba(0,0,0,0.1);
+}
+
+caption {
+  font-weight: bold;
+  margin-bottom: 10px;
+}
+
+th, td {
+  padding: 10px;
+  text-align: left;
+  border-bottom: 1px solid #ddd;
+}
+
+th {
+  background: #27ae60;
+  color: #fff;
+}
+
+tr:hover {
+  background: #f2f2f2;
+}
+
+/* Image */
+img {
+  display: block;
+  margin: 20px auto;
+  max-width: 500px;
+  border-radius: 8px;
+  box-shadow: 0 4px 10px rgba(0,0,0,0.15);
+}
